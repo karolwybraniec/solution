@@ -1,0 +1,10 @@
+localGitRepoDir: "src/gitrepository"
+githubUrl: "https://github.com"
+gitUsername: "XYZ" # placeholder for github username|email
+gitPassword: "XYZ" # placeholder for github password
+gitRemoteUrl: "XYZ/temp" # placeholder for remote github url (https, not ssh)
+gitProfileUrl: "https://github.com/XYZ"
+gitRemoteName: "origin"
+gitWorkingBranch: "solution7" # correspond with branch name
+gitRepositoryName: "temp"
+gitPullRequetsNumber: "7"  # corresponds with https://github.com/:username/:reponame/pull/:gitPullRequestNumber
